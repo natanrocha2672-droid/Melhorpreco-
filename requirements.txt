@@ -1,0 +1,6 @@
+Flask
+requests
+gunicorn
+python-dotenv
+beautifulsoup4
+mercadopago
