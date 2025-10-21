@@ -1,0 +1,5 @@
+# Ignorar o arquivo de senhas
+.env
+
+# Ignorar a pasta do ambiente virtual
+venv/
